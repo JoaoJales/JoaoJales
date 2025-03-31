@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor de software no início da carreira, entusiasmado em criar soluções inovadoras e aprender novas tecnologias. Atualmente, sou estudante de Engenharia de Software na UCB (Universidade Católica de Brasília). Busco praticar intensamente meus conhecimentos por meio de projetos e desafios focados no Back-End.
 
-<!-- - 🔭 I’m currently working on [Api-games](https://github.com/JoaoJales/api-games) -->
+- 🔭 Estou atualmente desenvolvendo: [Vollmed-API](https://github.com/JoaoJales/Vollmed-API.git)
 - 📚 Atualmente estudando Java e Spring Boot
 - 💻 Procurando um Estágio na área da Tecnologia
 - 📫 Como entrar em contato comigo: [joaoricardocirino@gmail.com] / [Linkedin](https://www.linkedin.com/in/joão-ricardo-cirino)
@@ -19,6 +19,9 @@ Sou um desenvolvedor de software no início da carreira, entusiasmado em criar s
 ## Projects
 
 Aqui estão alguns dos meus projetos:
+
+### [Vollmed-API](https://github.com/JoaoJales/Vollmed-API.git)
+**Descrição:** (Java) API Rest para realizar operações de uma clínica médica fictícia.
 
 ### [Game-API](https://github.com/JoaoJales/Game-API)
 **Descrição:** (Java) API REST para informações de jogos como nome, data de lançamento, nota, desenvolvedor, etc.

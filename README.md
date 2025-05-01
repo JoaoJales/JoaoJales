@@ -12,7 +12,7 @@ Sou um desenvolvedor de software no início da carreira, entusiasmado em criar s
 ## GitHub Status
 
 <div>  
-<img height="180em" width="600" " src="https://github-readme-stats.vercel.app/api?username=joaojales&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=00CED1&title_color=00CED1&icon_color=00CED1&text_color=FFFAFA&bg_color=090014" alt="João Jales github stats""/>
+<img height="180em" width="600" src="https://github-readme-stats.vercel.app/api?username=joaojales&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=00CED1&title_color=00CED1&icon_color=00CED1&text_color=FFFAFA&bg_color=090014" alt="João Jales github stats"/>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojales&layout=compact&hide_title=true&hide=issues&border_color=00CED1&title_color=00CED1&icon_color=00CED1&text_color=00CED1F&bg_color=090014"/>
 </div>

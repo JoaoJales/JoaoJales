@@ -4,7 +4,8 @@
 
 Sou um desenvolvedor de software no início da carreira, entusiasmado em criar soluções inovadoras e aprender novas tecnologias. Atualmente, sou estudante de Engenharia de Software na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília</a>. Busco praticar intensamente meus conhecimentos por meio de projetos e desafios focados no Back-End.
 
-<!-- - 🔭 Estou atualmente desenvolvendo: [Vollmed-API](https://github.com/JoaoJales/Vollmed-API.git) -->
+
+- 🔭 Estou atualmente desenvolvendo: [Bank-Api](https://github.com/JoaoJales/Bank-transactions-API.git) 
 - 📚 Atualmente estudando Java e Spring Boot
 - 💻 Procurando um Estágio na área da Tecnologia
 - 📫 Como entrar em contato comigo: [joaoricardocirino@gmail.com] / [Linkedin](https://www.linkedin.com/in/joão-ricardo-cirino)

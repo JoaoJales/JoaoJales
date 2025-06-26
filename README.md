@@ -5,7 +5,7 @@
 Sou um desenvolvedor de software no início da carreira, entusiasmado em criar soluções inovadoras e aprender novas tecnologias. Atualmente, sou estudante de Engenharia de Software na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília</a>. Busco praticar intensamente meus conhecimentos por meio de projetos e desafios focados no Back-End.
 
 
-- 🔭 Estou atualmente desenvolvendo: [Bank-Api](https://github.com/JoaoJales/Bank-transactions-API.git) 
+<!-- - 🔭 Estou atualmente desenvolvendo: [Bank-Api](https://github.com/JoaoJales/Bank-transactions-API.git) -->
 - 📚 Atualmente estudando Java e Spring Boot
 - 💻 Procurando um Estágio na área da Tecnologia
 - 📫 Como entrar em contato comigo: [joaoricardocirino@gmail.com] / [Linkedin](https://www.linkedin.com/in/joão-ricardo-cirino)
@@ -31,18 +31,20 @@ Sou um desenvolvedor de software no início da carreira, entusiasmado em criar s
 ## Projects
 
 Aqui estão alguns dos meus projetos:
+### [Bank-API](https://github.com/JoaoJales/Bank-API.git)
+**Descrição:** (Java) Bank API é uma API RESTful, que simula operações bancárias básicas, como: Depósitos, saques, pagamentos, transferências, Consulta de extrato, histórico de transações...
 
 ### [Vollmed-API](https://github.com/JoaoJales/Vollmed-API.git)
 **Descrição:** (Java) API Rest para realizar operações de uma clínica médica fictícia.
 
-### [Game-API](https://github.com/JoaoJales/Game-API)
-**Descrição:** (Java) API REST para informações de jogos como nome, data de lançamento, nota, desenvolvedor, etc.
+### [ScreenMatch - Projetos da Formação Java](https://github.com/JoaoJales/ScreenMatch.git)
+**Description:** (Java) Plataforma de informações sobre filmes e séries (Conjunto de projetos da formação inicial Java Alura).
 
-### [API-REST-ScreenMatch](https://github.com/JoaoJales/API-REST-ScreenMatch)
-**Description:** (Java) API REST para informações de Séries e Episódios.
+### [Blackjack](https://github.com/JoaoJales/BlackJack.git)
+**Description:** (C) Simulação do jogo de cartas Blackjack (21) com a utlização de threads e semáforos.
 
-### [Snake-Game](https://github.com/JoaoJales/Snake-Game)
-**Description:** (C) Tradicional jogo da cobrinha.
+### [Torre de Hanói](https://github.com/JoaoJales/Torre-de-Hanoi.git)
+**Description:** (C) Implementação do clássico jogo Torre de Hanói, utilizando estruturas de dados como pilhas e listas encadeadas.
 
 ## Contact
 

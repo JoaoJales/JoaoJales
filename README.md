@@ -31,14 +31,15 @@ Sou um desenvolvedor de software no início da carreira, entusiasmado em criar s
 ## Projects
 
 Aqui estão alguns dos meus projetos:
+
+### [Library-API](https://github.com/JoaoJales/Library-API.git)
+**Description:** (Java) A Library API é um sistema RESTful de gerenciamento para uma biblioteca acadêmica. Simula as principais operações de uma biblioteca real, como empréstimos, devoluções, multas, reservas, controle de livros, autores e cópias.
+
 ### [Bank-API](https://github.com/JoaoJales/Bank-API.git)
-**Descrição:** (Java) Bank API é uma API RESTful, que simula operações bancárias básicas, como: Depósitos, saques, pagamentos, transferências, Consulta de extrato, histórico de transações...
+**Descrição:** (Java) Bank API é um sistema RESTful, que simula operações bancárias básicas, como: Depósitos, saques, pagamentos, transferências, Consulta de extrato, histórico de transações...
 
 ### [Vollmed-API](https://github.com/JoaoJales/Vollmed-API.git)
 **Descrição:** (Java) API Rest para realizar operações de uma clínica médica fictícia.
-
-### [ScreenMatch - Projetos da Formação Java](https://github.com/JoaoJales/ScreenMatch.git)
-**Description:** (Java) Plataforma de informações sobre filmes e séries (Conjunto de projetos da formação inicial Java Alura).
 
 ### [Blackjack](https://github.com/JoaoJales/BlackJack.git)
 **Description:** (C) Simulação do jogo de cartas Blackjack (21) com a utlização de threads e semáforos.
